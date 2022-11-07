@@ -8,8 +8,26 @@ header {
     background-color: #4da1ff;
 }
 
+main {
+    padding: 10px;
+}
+
 #header-image {
     margin-top: 20px;
     padding: 10px;
+}
+
+#titolo {
+    font-size: 55px;
+    margin-top: 16px;
+}
+
+#p-titolo {
+    color: #9b9b9b;
+    font-size: large;
+}
+
+#booleaner {
+    color: #2ab0e7;
 }
 
